@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background: fixed yellow;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+.banner{
+    
+    background: url(../img/bg_1.jpg.webp);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.preeheader{
+    height: 90px;
+    width: 100%;
+    background: whitesmoke;
+}
+.socialmetia-links{
+    margin-left: 82px;
+    margin-top: 17px;
+    position: absolute;
+}
+.social-icons{
+    background: rgba(0,0,0,0.05);
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-left: 4px;
+}
+.social-icons:hover{
+    background: green;
+    
+}
+.fa-brands{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 21px;
+}
+.fa-brands:hover{
+    color: white;
+}
+/* company-logos */
+.logos{
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 19px;
+
+}
+.head{
+    color: #000000;
+    font-weight: 1000;
+    font-size: 40px;
+    line-height: 1;
+    margin-bottom: 30px;
+    
+}
+.head::after{
+    content: "Care";
+    color: green;
+}
+/* search-section */
+.search{
+    display: inline-block;
+    position: absolute;
+    /* margin-right: 15px; */
+    margin-left: 70%;
+    margin-top: 18px;
+
+}
+
+.search-field{
+    padding: 16px;
+    /* width: 35px; */
+    border: 0;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    width: 249px;
+
+}
+.search-icon{
+    height: 49px;
+    position: absolute;
+    width: 49px;
+    background: rgb(3, 109, 12);
+    border-radius: 52px;
+    /* margin-right: 81px; */
+    display: inline-block;
+    right: -12px;
+
+}
+.fa-solid{
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: white;
+    cursor: pointer;
+
+}
+.nav-item{
+    margin-top: 10px;
+    font-size: 19px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 33px;
+    color: white;
+}
+
+.navbar{
+    height: 46px;
+    width: 100%;
+    background: green;
+}
+.nav-section{
+    margin-left: 347px;
+}
+.banner{
+    background-image: url(../img/bg_1.jpg.webp);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.intro{
+    letter-spacing: 0px;
+    text-transform: uppercase;
+    font-size: 11px;
+    color: yellow;
+    display: inline-block;
+    margin-top: 306px;
+    margin-left: 214px;
+}
+.title{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 207px;
+    margin-top: 11px;
+    letter-spacing: 1px;
+}
+
+.p-tag{
+    color: white;
+    letter-spacing: 1px;
+    /* text-transform: capitalize; */
+    font-size: 17px;
+    margin-left: 198px;
+    margin-top: 20px;
+}
+.learn{
+    margin-left: 199px;
+    font-size: 18px;
+    color: white;
+    font-family: sans-serif;
+    background: green;
+    width: 123px;
+    height: 26px;
+    padding: 3px;
+    margin-top: 21px;
+    text-align: center;
+}
+.icon{
+    display: inline-block;
+    position: absolute;
+    margin-left: 122px;
+    margin-top: 13px;
+}
+
+  
+.nav-item:hover{
+    color: #fbd341;
+}
+ 
+/* services-sections */
+.services-section{
+    margin-top: 56px;
+    margin-left: 56px;
+    display: inline-block;
+
+}
+
+.services{
+    /* width: 239px;
+    height: 337px; */
+    height: 418px;
+    width: 245px;
+    background: whitesmoke;
+    display: inline-block;
+    margin-left: 19px;
+}
+
+.ser-icons{
+    margin-left: 4pc;
+    display: inline-block;
+}
+
+.services-icon{ 
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    background: rgba(0,0,0,0.05);
+    border-radius: 50px;
+    display: inline-block;
+    margin-left: 7px;
+    margin-top: 7px;
+    cursor: pointer;
+}
+
+.fa-solid{
+    position: absolute;
+    color: black;
+    font-size: 38px;
+    margin-left: 26px;
+    margin-top: 26px;
+}
+
+.services-icon:hover{
+    background: green;
+    
+}
+.topic{
+    position: absolute;
+    margin-top: 108px;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 64px;
+}
+
+
+
+/* .icon-section{
+    align-items: center;
+} */
+.pharah{
+    font-size: 19px;
+    letter-spacing: 2px;
+    line-height: 43px;
+    margin-bottom: 1em;
+    text-align: center;
+    margin-top: 156px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: sans-serif;
+}
+.sub-class{
+    text-align: center;
+    width: 273px;
+    height: 391px;
+    background: white;
+    margin-left: 828px;
+    margin-top: -353px;
+}
+
+.phara{
+    font-size: 16px;
+    letter-spacing: 2px;
+    line-height: 29px;
+    margin-top: 20px;
+    text-align: start;
+    font-family: sans-serif;
+    padding-left: 34px;
+}
+.sub-topic{
+    color: green;
+    font-size: 21px;
+    display: inline-block;
+    font-weight: 800;
+    padding-top: 14px;
+}
+.a-tag{
+    margin-left: -73px;
+    margin-top: 26px;
+}
+.serv-btn{
+    font-family: sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    height: 26px;
+    width: 100px;
+    background: green;
+    color: white;
+    padding: 10px;
+    font-size: 17px;
+    margin-left: -9px;
+}
+.sub-class{
+    background: whitesmoke;
+    width: 260px;
+    height: 415px;
+    position: relative;
+    bottom: 64px;
+}

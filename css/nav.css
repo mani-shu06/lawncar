@@ -1,0 +1,77 @@
+.nav{
+    background: rgb(14, 17, 14);
+    display: inline-block;
+    height: 57px;
+    width: 100%;
+}
+
+
+h1{
+    width: 100%;
+    height: 43px;
+    color: cyan;
+    font-size: 30px;
+    margin-top: 11px;
+    margin-left: 25px;
+}
+.bar li{
+    display: inline-block;
+    margin-left: 43px;
+    color: white;
+}
+.bar{
+    position: absolute;                  
+    margin-top: -81px;
+    margin-left: 765px;
+    color: white;
+    font-size: 19px;
+}
+img{
+    height: 125px;
+    /* border: dashed; */
+    border-radius: 91px;
+    float: left;
+    margin-right: 12px;
+}
+p{
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 24px;
+    text-align: justify;
+    color: black;
+}
+.head{
+    background: linear-gradient(95deg, red,yellow, transparent);
+}
+h2{
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    margin-top: 0px;
+    /* margin-bottom: 14px; */
+    padding-top: 11px;
+    color: black;
+}
+.box{
+    height: 200px;
+    width: 204px;
+    background: red;
+    border-radius: 10px;
+    display: inline-block;
+    /* padding-left: 0px; */
+    margin-left: 112px;
+    margin-top: 15px;
+}
+.ex-1{
+background: yellow;
+}
+.ex-2{
+    background: rgb(17, 114, 204);
+    
+}
+.ex-3{
+    background: rgb(8, 197, 65);
+}
+
+

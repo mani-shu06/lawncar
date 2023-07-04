@@ -1,0 +1,49 @@
+.form{
+    width: 353px;
+    height: 336px;
+    color: white;
+    background: rgb(10 203 247);
+    margin-left: 505px;
+    margin-top: 123px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 34px;
+    text-align: center;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+label{
+    font-size: 20px;
+   
+    margin: 14px;
+}
+.mk{
+    padding: 9px;
+    border-radius: 7px;
+}
+.child{
+    padding-bottom: 15px;
+}
+.mi{
+    margin-left: 14px;
+}
+.jk{
+    margin-left: 6px;
+}
+.btn{
+   
+padding: 10px;
+   
+text-align: center;
+   
+/* font-size: 14px; */
+}
+.s-btn{
+    font-size: 18px;
+    background: green;
+    color: white;
+    padding: 5px 19px;
+    border-radius: 38px;
+
+}
